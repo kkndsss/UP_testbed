@@ -5,4 +5,4 @@ if st.button("눌러주세요") :
     st.write("버튼이 눌렸습니다!")
     
 
-st.balloons
+st.balloons()
